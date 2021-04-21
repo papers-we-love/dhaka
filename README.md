@@ -1,4 +1,4 @@
-# Dhaka - Update this file and the code of conduct!
+# Papers We Love - Dhaka Chapter, Bangladesh
 
 This is the repository for the Dhaka chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/dhaka/blob/main/code-of-conduct.md).
 
@@ -13,4 +13,4 @@ Lets read more papers and advance our knowledge as well as research!
 
 ### Contact
 
-Annajiat Alim Rasel, annajiat@gmail.com, Twitter: @annajiat
+Annajiat Alim Rasel | [Email](annajiat@gmail.com) | [Twitter](https://twitter.com/annajiat/)
