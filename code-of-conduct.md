@@ -13,13 +13,16 @@ We value the participation of each member of the community and want all attendee
 Need help?
 ----------
 
-If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
+If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, [PapersWeLove.org](http://paperswelove.org), or a Dhaka-area meetup/event, please contact:
 
-- **Organizer name** [org@email.com](mailto:org@email.com)
-- **Organizer name** [org@email.com](mailto:org@email.com)
-- **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
+- **Annajiat Alim Rasel** [annajiat@gmail.com](mailto:annajiat@gmail.com)
 
 The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live events.
+
+
+Please try your local organizers first, but if the local organizers are unable to help you can contact a top-level PWL organizer:
+
+- **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
 What it means
 -------------
